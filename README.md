@@ -46,8 +46,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ai4analist/ai4analist/output/snake.svg" alt="Snake animation" />
 
 ###
