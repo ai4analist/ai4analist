@@ -33,144 +33,147 @@
 
 ### 🛠️ Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- Languages & Tools — ONLY requested items -->
 <p align="center">
-
 <table align="center">
+  <tbody>
+
+  <!-- Row 1 -->
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
-      <br>React
-    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=kali" alt="Kali" width="55" height="55" />
       <br>Kali
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash" />
+      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="55" height="55" />
       <br>Bash
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
-      <br>PHP
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
       <br>Python
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
-      <br>HTML
+      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="55" height="55" />
+      <br>C
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
-      <br>firebase
-    </td>
-    <td align="center" width="90">
-      <img src="img/Wireshark_icon.svg.png" width="45" height="45" alt="Wireshark" />
-      <br>wireshark
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <br>Git
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+      <br>C++
     </td>
   </tr>
 
+  <!-- Row 2 -->
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
       <br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="55" height="55" />
+      <br>PowerShell
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" />
+      <br>VS Code
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="90">
-      <img src="img/Virtualbox_logo.png" width="45" height="45" alt="VirtualBox" />
-      <br>virtualbox
-    </td>
-    <td align="center" width="90">
-      <img src="img/vmware.png" width="45" height="45" alt="VMware" />
-      <br>vmware
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=latex" width="45" height="45" alt="LaTeX" />
-      <br>latex
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
-      <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="npm" />
-      <br>npm
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="45" height="45" alt="Ubuntu" />
-      <br>ubuntu
-    </td>
-    <td align="center" width="90">
-      <img src="img/mimikatz_sticker.png" width="45" height="45" alt="Mimikatz" />
-      <br>mimikatz
-    </td>
-    <td align="center" width="90">
-      <img src="img/nmap.png" width="45" height="45" alt="Nmap" />
-      <br>nmap
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
-      <br>vscode
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="Windows" />
+      <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="55" height="55" />
       <br>Windows
     </td>
     <td align="center" width="90">
-      <img src="img/burp-suite-icon.jpg" width="45" height="45" alt="Burp Suite" />
-      <br>Burpsuite
-    </td>
-    <td align="center" width="90">
-      <img src="img/esxi-logo.png" width="45" height="45" alt="VMware ESXi" />
-      <br>Vmware ESXI
-    </td>
-    <td align="center" width="90">
-      <img src="img/gns3.png" width="45" height="45" alt="GNS3" />
-      <br>gns3
-    </td>
-    <td align="center" width="90">
-      <img src="img/metasploit.webp" width="45" height="45" alt="Metasploit" />
-      <br>metasploit
+      <img src="img/Wireshark_icon.svg.png" alt="Wireshark" width="45" height="45" />
+      <br>Wireshark
     </td>
   </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" width="90">
+      <img src="img/Virtualbox_logo.png" alt="VirtualBox" width="45" height="45" />
+      <br>VirtualBox
+    </td>
+    <td align="center" width="90">
+      <img src="img/vmware.png" alt="VMware" width="45" height="45" />
+      <br>VMware
+    </td>
+    <td align="center" width="90">
+      <img src="img/nmap.png" alt="Nmap" width="45" height="45" />
+      <br>Nmap
+    </td>
+    <td align="center" width="90">
+      <img src="img/metasploit.webp" alt="Metasploit" width="45" height="45" />
+      <br>Metasploit
+    </td>
+    <td align="center" width="90">
+      <img src="img/mimikatz_sticker.png" alt="Mimikatz" width="45" height="45" />
+      <br>Mimikatz
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="45" height="45" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="90">
+      <img src="img/burp-suite-icon.jpg" alt="Burp Suite" width="45" height="45" />
+      <br>Burp Suite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux (Tux)" width="45" height="45" />
+      <br>Linux (Tux)
+    </td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://vectorlogo.zone/logos/obsidianmd/obsidianmd-icon.svg" alt="Obsidian" width="45" height="45" />
+      <br>Obsidian
+    </td>
+    <td align="center" width="90">
+      <img src="https://vectorlogo.zone/logos/xmind/xmind-icon.svg" alt="XMind" width="45" height="45" />
+      <br>XMind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="45" height="45" />
+      <br>Notion
+    </td>
+    <td align="center" width="90">
+      <img src="img/assembly.png" alt="Assembly" width="45" height="45" />
+      <br>Assembly
+    </td>
+    <td align="center" width="90">
+      <img src="img/hydra.png" alt="Hydra" width="45" height="45" />
+      <br>Hydra
+    </td>
+  </tr>
+
+  <!-- Row 6 -->
+  <tr>
+    <td align="center" width="90">
+      <img src="img/ida.png" alt="IDA" width="45" height="45" />
+      <br>IDA
+    </td>
+    <td align="center" width="90">
+      <img src="img/malware-dev.png" alt="Malware Dev" width="45" height="45" />
+      <br>Malware Dev
+    </td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+  </tr>
+
+  </tbody>
 </table>
 </p>
 
