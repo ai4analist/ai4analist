@@ -79,7 +79,7 @@
       <br>Windows
     </td>
     <td align="center" width="90">
-      <img src="img/Wireshark_icon.svg.png" alt="Wireshark" width="45" height="45" />
+      <img src="img/Wireshark.png" alt="Wireshark" width="45" height="45" />
       <br>Wireshark
     </td>
   </tr>
