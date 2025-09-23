@@ -33,170 +33,147 @@
 
 ### 🛠️ Languages & Tools
 
-<!-- Languages & Tools — final (uses img/ paths with fallback to skillicons) -->
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<table align="center">
-  <tbody>
 
+<table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="img/kali.png" alt="Kali" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=kali'"/>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kali" alt="Kali" width="55" height="55" />
       <br>Kali
     </td>
     <td align="center" width="90">
-      <img src="img/bash.png" alt="Bash" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=bash'"/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash" />
       <br>Bash
     </td>
     <td align="center" width="90">
-      <img src="img/python.png" alt="Python" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=python'"/>
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
       <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="img/c.png" alt="C" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=c'"/>
-      <br>C
-    </td>
-    <td align="center" width="90">
-      <img src="img/cpp.png" alt="C++" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=cpp'"/>
-      <br>C++
     </td>
   </tr>
 
   <tr>
     <td align="center" width="90">
-      <img src="img/mysql.png" alt="MySQL" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=mysql'"/>
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+      <br>firebase
+    </td>
+    <td align="center" width="90">
+      <img src="img/Wireshark_icon.svg.png" width="45" height="45" alt="Wireshark" />
+      <br>wireshark
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
       <br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="img/powershell.png" alt="PowerShell" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=powershell'"/>
-      <br>PowerShell
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+      <br>Java
     </td>
     <td align="center" width="90">
-      <img src="img/vscode.png" alt="VS Code" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=vscode'"/>
-      <br>VS Code
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+      <br>C++
     </td>
     <td align="center" width="90">
-      <img src="img/windows.png" alt="Windows" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=windows'"/>
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="90">
+      <img src="img/Virtualbox_logo.png" width="45" height="45" alt="VirtualBox" />
+      <br>virtualbox
+    </td>
+    <td align="center" width="90">
+      <img src="img/vmware.png" width="45" height="45" alt="VMware" />
+      <br>vmware
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=latex" width="45" height="45" alt="LaTeX" />
+      <br>latex
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="npm" />
+      <br>npm
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="45" height="45" alt="Ubuntu" />
+      <br>ubuntu
+    </td>
+    <td align="center" width="90">
+      <img src="img/mimikatz_sticker.png" width="45" height="45" alt="Mimikatz" />
+      <br>mimikatz
+    </td>
+    <td align="center" width="90">
+      <img src="img/nmap.png" width="45" height="45" alt="Nmap" />
+      <br>nmap
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
+      <br>vscode
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="Windows" />
       <br>Windows
     </td>
     <td align="center" width="90">
-      <img src="img/wireshark.png" alt="Wireshark" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=wireshark'"/>
-      <br>Wireshark
+      <img src="img/burp-suite-icon.jpg" width="45" height="45" alt="Burp Suite" />
+      <br>Burpsuite
+    </td>
+    <td align="center" width="90">
+      <img src="img/esxi-logo.png" width="45" height="45" alt="VMware ESXi" />
+      <br>Vmware ESXI
+    </td>
+    <td align="center" width="90">
+      <img src="img/gns3.png" width="45" height="45" alt="GNS3" />
+      <br>gns3
+    </td>
+    <td align="center" width="90">
+      <img src="img/metasploit.webp" width="45" height="45" alt="Metasploit" />
+      <br>metasploit
     </td>
   </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="img/virtualbox.png" alt="VirtualBox" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=virtualbox'"/>
-      <br>VirtualBox
-    </td>
-    <td align="center" width="90">
-      <img src="img/vmware.png" alt="VMware" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=vmware'"/>
-      <br>VMware
-    </td>
-    <td align="center" width="90">
-      <img src="img/nmap.png" alt="Nmap" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=nmap'"/>
-      <br>Nmap
-    </td>
-    <td align="center" width="90">
-      <img src="img/metasploit.png" alt="Metasploit" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=metasploit'"/>
-      <br>Metasploit
-    </td>
-    <td align="center" width="90">
-      <img src="img/mimikatz.png" alt="Mimikatz" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=mimikatz'"/>
-      <br>Mimikatz
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="img/ubuntu.png" alt="Ubuntu" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=ubuntu'"/>
-      <br>Ubuntu
-    </td>
-    <td align="center" width="90">
-      <img src="img/burp.png" alt="Burp Suite" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=burpsuite'"/>
-      <br>Burp Suite
-    </td>
-    <td align="center" width="90">
-      <img src="img/git.png" alt="Git" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=git'"/>
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="img/github.png" alt="GitHub" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=github'"/>
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="img/linux.png" alt="Linux (Tux)" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'"/>
-      <br>Linux (Tux)
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="img/obsidian.png" alt="Obsidian" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://vectorlogo.zone/logos/obsidianmd/obsidianmd-icon.svg'"/>
-      <br>Obsidian
-    </td>
-    <td align="center" width="90">
-      <img src="img/xmind.png" alt="XMind" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://vectorlogo.zone/logos/xmind/xmind-icon.svg'"/>
-      <br>XMind
-    </td>
-    <td align="center" width="90">
-      <img src="img/notion.png" alt="Notion" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=notion'"/>
-      <br>Notion
-    </td>
-    <td align="center" width="90"></td>
-    <td align="center" width="90"></td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="img/assembly.png" alt="Assembly" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=assembly'"/>
-      <br>Assembly
-    </td>
-    <td align="center" width="90">
-      <img src="img/hydra.png" alt="Hydra" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=hydra'"/>
-      <br>Hydra
-    </td>
-    <td align="center" width="90">
-      <img src="img/ida.png" alt="IDA" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=ida'"/>
-      <br>IDA
-    </td>
-    <td align="center" width="90">
-      <img src="img/malware-dev.png" alt="Malware Dev" width="55" height="55"
-           onerror="this.onerror=null;this.src='https://skillicons.dev/icons?i=malware'"/>
-      <br>Malware Dev
-    </td>
-    <td align="center" width="90"></td>
-  </tr>
-
-  </tbody>
 </table>
 </p>
+
 
 
 ---
