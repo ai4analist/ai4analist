@@ -52,7 +52,7 @@
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C (animated)" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="55" height="55" />
       <br>C
     </td>
     <td align="center" width="90">
