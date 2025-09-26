@@ -51,11 +51,12 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
       <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="55" height="55" />
-      <br>C
-    </td>
+ <td align="center" width="90">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener">
+    <span style="font-size:40px;">🅲</span>
+  </a>
+  <br>C
+</td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
       <br>C++
@@ -183,15 +184,35 @@
 
 ### 🌐 Connect with Me
 <div align="center">
-  <a href="https://youtube.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://instagram.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://reddit.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://discord.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="mailto:yourmail@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/this-is-analist-12a47928b/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://tryhackme.com/p/ai4analist" target="_blank" rel="noopener"><img src="https://tryhackme-badges.s3.amazonaws.com/ai4analist.png" alt="TryHackMe" style="height:28px; margin-left:6px;" /></a>
-
+  <a href="https://youtube.com/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://instagram.com/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.paypal.com/paypalme/yourusername" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+  <a href="https://discord.com/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:yourmail@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/this-is-analist-12a47928b/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/yourusername" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://signal.me/#p/yourusername" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" />
+  </a>
+  <a href="https://tryhackme.com/p/ai4analist" target="_blank" rel="noopener">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ai4analist.png" alt="TryHackMe" style="height:28px; margin-left:6px;" />
+  </a>
 </div>
+
 
 ---
 
